@@ -151,6 +151,13 @@
 
     define('LNAME','0kama');
     echo LNAME;
+  
+    print "<br>";
+    print "<br>";
+    print "<br>";
+    
+    $color="Black";
+    print $color;
     ?>
 </body>
 </html>
